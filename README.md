@@ -1,5 +1,5 @@
 # betcode
-project
+
 # betcode
 
 Welcome to the repository for [betcode]. This project serves as the source code for my personal website hosted on GitHub Pages.
