@@ -1,23 +1,23 @@
-# my-first-project
+# betcode
 project
-# Your Website Name
+# betcode
 
-Welcome to the repository for [Your Website Name]. This project serves as the source code for my personal website hosted on GitHub Pages.
+Welcome to the repository for [betcode]. This project serves as the source code for my personal website hosted on GitHub Pages.
 
-## Description
+## betting platform
 
-[Your Website Name] is a [brief description of your website, e.g., personal portfolio, blog, online resume, etc.]. It is designed to showcase my work, share my thoughts, and provide information about me.
+[betcode] is a [betting platform ]. It is designed to showcase my work, share my thoughts, and provide information about me.
 
-## Website URL
+## betcode.com
 
 You can access the live website at the following URL:
 [https://your-username.github.io/your-website-repo/](https://your-username.github.io/your-website-repo/)
 
-## Features
+## how to make money with sport
 
 - [List key features and functionalities of your website.]
 
-## Getting Started
+## Ge
 
 To set up and run this website locally, follow these steps:
 
